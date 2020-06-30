@@ -1,5 +1,5 @@
 body{
-  background-image: url('dboguers9f2aymbpthzy 1.png');
+  background-image: url('grenoble_2.png');
   background-repeat: no-repeat;
 }
 
@@ -7,6 +7,9 @@ h1.nom{
   font-weight: 700;
 }
 
+p{
+  font-weight: 900;
+}
 
 .myButton {
 	box-shadow:inset 0px 0px 15px 3px #000000;
